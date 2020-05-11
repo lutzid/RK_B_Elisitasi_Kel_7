@@ -7,4 +7,4 @@
 * Link : https://ciut.in/rk7kebutuhan
 
 ## Screenshot Use Case Diagram
-![Screenshot Use Case Diagram](Use_Case_Diagram.jpg)
+![Screenshot Use Case Diagram](SKPL/Use_Case_Diagram.jpg)
